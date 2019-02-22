@@ -1,0 +1,25 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+/* потомок на любом уровне */
+div p {
+    color: green;
+}
+
+/* непосредственный потомок */
+ul > li {
+    color: orange;
+}
+
+/* селектор класса */
+.wrapper {
+    width: 900px;
+    margin: auto;
+    background-color: #eee;
+}
+
+#link {
+    color: orangered;
+}
