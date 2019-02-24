@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+body {
+    font-family: "PlayfairDisplay", sans-serif;
+}
+
 .wrapper {
     width: 900px;
     margin: auto;
